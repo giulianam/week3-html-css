@@ -1,0 +1,43 @@
+.funny {
+    border: 4px groove pink;
+}
+header {
+    border: 4px groove violet;
+}
+p {
+    border: 2px groove purple;
+
+}
+#mask { 
+     width:160px;
+}
+
+#dojo {
+    width: 180px;
+}
+p {
+    color: blueviolet;
+}
+
+body {
+    background-color: darkgrey;
+}
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+header {
+    text-align: center;
+}
+#important {
+    font-size: 26px;
+}
+header {
+    font-style: oblique;
+}
+header {
+    font-size: 36px;
+}
+
+#dojo {
+    border: 2px groove beige;
+}
